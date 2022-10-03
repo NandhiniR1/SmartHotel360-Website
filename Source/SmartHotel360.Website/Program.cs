@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace SmartHotel360.PublicWeb
 {
     public class Program
-    {
+    {//first change
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
